@@ -554,18 +554,18 @@ label.error {
 	height: 18px;
 	border-radius: 100%;
 	background-color: #c06451;
-	-webkit-animation: bouncedelay 1.4s infinite ease-in-out both;
-	animation: bouncedelay 1.4s infinite ease-in-out both;
+	-webkit-animation: bouncedelay 1.2s infinite ease-in-out both;
+	animation: bouncedelay 1.2s infinite ease-in-out both;
 }
 
 .three-bounce .one {
-	-webkit-animation-delay: -0.32s;
-	animation-delay: -0.32s;
+	-webkit-animation-delay: -0.22s;
+	animation-delay: -0.22s;
 }
 
 .three-bounce .two {
-	-webkit-animation-delay: -0.16s;
-	animation-delay: -0.16s;
+	-webkit-animation-delay: -0.14s;
+	animation-delay: -0.14s;
 }
 
 @-webkit-keyframes bouncedelay {
